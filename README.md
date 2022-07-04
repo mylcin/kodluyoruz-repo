@@ -1,3 +1,3 @@
-# kodluyoruz-repo
+# Kodluyoruz Repository
 
 Genel ödevler ve projeler.
