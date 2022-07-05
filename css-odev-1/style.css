@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    font-size: 1.2rem;
+}
+h1{
+    color:red;
+}
+h2{
+    color: rgb(217, 164, 94);
+}
+
+a{
+    padding: 1rem;
+}
