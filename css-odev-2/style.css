@@ -1,0 +1,63 @@
+
+/* Body */
+body {
+    width: 90%;
+    background-color: white;
+    margin: 0 auto;
+}
+
+/* Picture */
+.google {
+    width: 100%;
+    height: 100px;
+    text-align: center;
+}
+/* Search bar */
+.search {
+    background-color: #EEEEEE;
+    width: 100%;
+    height: 60px;
+    text-align: center;
+}
+
+/* Description */
+
+.desc1{
+    width: 37%;
+    height: 68px;
+    float: left;
+    background-color: #7EE5DA;
+    text-align: center;
+    margin: 0.2% 0.2% 0.2% 0;
+    padding-top: 10px;
+    font-size: 15px;
+}
+.desc2 {
+    float: left;
+    height: 73px;
+    width: 19%;
+    background-color: #70CCC2;
+    text-align: center;
+    margin: 0.2% 0.2% 0.2% 0;
+    font-size: 13px;
+    padding-top: 5px;
+}
+.desc3 {
+    float: left;
+    height: 78px;
+    width: 43%;
+    background-color: #62B3AA;
+    text-align: center;
+    margin: 0.2% 0;
+    font-size: 14px;
+}
+/* Footer */
+footer {
+    float: left;
+    text-align: center;
+    height: 50px;
+    width: 100%;
+    margin-top: 5px;
+    padding-top: 12px;
+    font-size: 12px;
+}
